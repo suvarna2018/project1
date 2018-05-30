@@ -1,5 +1,5 @@
 
-public class FirstClass  a {
+public class FirstClass  ab  {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
